@@ -1,0 +1,44 @@
+{
+  "assetsByChunkName": {
+    "page-component---src-pages-index-js": [
+      "page-component---src-pages-index-js-1ef80c3916b7ca3e18b3.js",
+      "page-component---src-pages-index-js-1ef80c3916b7ca3e18b3.js.map"
+    ],
+    "page-component---src-templates-blog-post-js": [
+      "page-component---src-templates-blog-post-js-e923e24a800f023b1ed7.js",
+      "page-component---src-templates-blog-post-js-e923e24a800f023b1ed7.js.map"
+    ],
+    "page-component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "page-component---node-modules-gatsby-plugin-offline-app-shell-js-4f0dddda43ae15168f16.js",
+      "page-component---node-modules-gatsby-plugin-offline-app-shell-js-4f0dddda43ae15168f16.js.map"
+    ],
+    "path---index": [
+      "path---index-8efeb0c62b68d9ca6d0c.js",
+      "path---index-8efeb0c62b68d9ca6d0c.js.map"
+    ],
+    "path---hello-world": [
+      "path---hello-world-4ad6f482deaf44629cf8.js",
+      "path---hello-world-4ad6f482deaf44629cf8.js.map"
+    ],
+    "commons": [
+      "commons-15825e08944454e0fdca.js",
+      "commons-15825e08944454e0fdca.js.map"
+    ],
+    "path---ed-course-1": [
+      "path---ed-course-1-47404ebd39f6b0597253.js",
+      "path---ed-course-1-47404ebd39f6b0597253.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "app": [
+      "app-e1e31d2e47ff5d667c73.js",
+      "app-e1e31d2e47ff5d667c73.js.map"
+    ],
+    "layout-component---index": [
+      "layout-component---index-66b6cf8273f9afa60fce.js",
+      "layout-component---index-66b6cf8273f9afa60fce.js.map"
+    ]
+  }
+}

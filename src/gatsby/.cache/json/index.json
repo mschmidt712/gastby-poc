@@ -1,0 +1,30 @@
+{
+    "data": {
+        "site": {
+            "siteMetadata": {
+                "title": "Gatsby Documentation POC"
+            }
+        },
+        "allMarkdownRemark": {
+            "edges": [
+                {
+                    "node": {
+                        "frontmatter": {
+                            "path": "/ed-course-1/",
+                            "title": "ED Course 1: ED Flow"
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "frontmatter": {
+                            "path": "/hello-world/",
+                            "title": "This Needs to be Dynamically Generated"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "pathContext": {}
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "componentChunkName": "page-component---node-modules-gatsby-plugin-offline-app-shell-js",
+        "jsonName": "offline-plugin-app-shell-fallback.json",
+        "path": "/offline-plugin-app-shell-fallback/"
+    },
+    {
+        "componentChunkName": "page-component---src-templates-blog-post-js",
+        "jsonName": "hello-world.json",
+        "path": "/hello-world/"
+    },
+    {
+        "componentChunkName": "page-component---src-templates-blog-post-js",
+        "jsonName": "ed-course-1.json",
+        "path": "/ed-course-1/"
+    },
+    {
+        "componentChunkName": "page-component---src-pages-index-js",
+        "jsonName": "index.json",
+        "path": "/"
+    }
+]

@@ -10,15 +10,15 @@
                 {
                     "node": {
                         "frontmatter": {
-                            "path": "/ed-course-1/",
-                            "title": "ED Course 1: ED Flow"
+                            "path": "/readme",
+                            "title": "Create React App README"
                         }
                     }
                 },
                 {
                     "node": {
                         "frontmatter": {
-                            "path": "/hello-world/",
+                            "path": "/hello-world",
                             "title": "This Needs to be Dynamically Generated"
                         }
                     }

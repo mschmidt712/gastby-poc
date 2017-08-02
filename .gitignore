@@ -9,6 +9,7 @@
 
 # production
 /build
+/src/gatsby/public
 
 # misc
 .DS_Store

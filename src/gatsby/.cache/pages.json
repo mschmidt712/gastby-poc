@@ -7,12 +7,12 @@
     {
         "componentChunkName": "page-component---src-templates-blog-post-js",
         "jsonName": "hello-world.json",
-        "path": "/hello-world/"
+        "path": "/hello-world"
     },
     {
         "componentChunkName": "page-component---src-templates-blog-post-js",
-        "jsonName": "ed-course-1.json",
-        "path": "/ed-course-1/"
+        "jsonName": "readme.json",
+        "path": "/readme"
     },
     {
         "componentChunkName": "page-component---src-pages-index-js",

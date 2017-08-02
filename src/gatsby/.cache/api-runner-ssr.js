@@ -1,8 +1,8 @@
 var plugins = [{
-      plugin: require('/Users/mschmidt/Projects/gatsby-poc/gatsby/node_modules/gatsby-plugin-google-analytics/gatsby-ssr.js'),
+      plugin: require('/Users/mschmidt/Projects/gatsby-poc/src/gatsby/node_modules/gatsby-plugin-google-analytics/gatsby-ssr.js'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/mschmidt/Projects/gatsby-poc/gatsby/node_modules/gatsby-plugin-react-helmet/gatsby-ssr.js'),
+      plugin: require('/Users/mschmidt/Projects/gatsby-poc/src/gatsby/node_modules/gatsby-plugin-react-helmet/gatsby-ssr.js'),
       options: {"plugins":[]},
     }]
 "use strict";

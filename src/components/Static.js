@@ -47,9 +47,7 @@ class Static extends React.Component {
       if (elem.hasClass('react-link')) {
         this.props.history.push(`${fullLinkAddress}`);
       } else if (fullLinkAddress.startsWith('#')) {
-        this.props.history.push({
-          hash: fullLinkAddress
-        });
+        document.location.hash = fullLinkAddress;
       } else if (fullLinkAddress.indexOf('http') > -1) {
         window.location.assign(fullLinkAddress);
       } else {

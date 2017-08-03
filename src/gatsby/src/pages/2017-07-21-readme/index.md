@@ -99,6 +99,8 @@ You can find the most recent version of this guide [here](https://github.com/fac
   - [Moment.js locales are missing](#momentjs-locales-are-missing)
 - [Something Missing?](#something-missing)
 
+<div id="updating-to-new-releases"></div>
+
 ## Updating to New Releases
 
 Create React App is divided into two packages:
@@ -116,9 +118,13 @@ In most cases bumping the `react-scripts` version in `package.json` and running 
 
 We commit to keeping the breaking changes minimal so you can upgrade `react-scripts` painlessly.
 
+<div id="sending-feedback"></div>
+
 ## Sending Feedback
 
 We are always open to [your feedback](https://github.com/facebookincubator/create-react-app/issues).
+
+<div id="folder-structure"></div>
 
 ## Folder Structure
 
@@ -157,9 +163,13 @@ Read instructions below for using assets from JavaScript and HTML.
 You can, however, create more top-level directories.<br>
 They will not be included in the production build so you can use them for things like documentation.
 
+<div id="available-scripts"></div>
+
 ## Available Scripts
 
 In the project directory, you can run:
+
+<div id="npm-start"></div>
 
 ### `npm start`
 
@@ -169,10 +179,14 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
+<div id="npm-test"></div>
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.<br>
 See the section about [running tests](#running-tests) for more information.
+
+<div id="npm-run-build"></div>
 
 ### `npm run build`
 
@@ -184,6 +198,8 @@ Your app is ready to be deployed!
 
 See the section about [deployment](#deployment) for more information.
 
+<div id="npm-run-eject"></div>
+
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
@@ -193,6 +209,8 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+<div id="supported-language-features-and-polyfills"></div>
 
 ## Supported Language Features and Polyfills
 
@@ -218,9 +236,13 @@ Note that **the project only includes a few ES6 [polyfills](https://en.wikipedia
 
 If you use any other ES6+ features that need **runtime support** (such as `Array.from()` or `Symbol`), make sure you are including the appropriate polyfills manually, or that the browsers you are targeting already support them.
 
+<div id="syntax-highlighting-in-the-editor"></div>
+
 ## Syntax Highlighting in the Editor
 
 To configure the syntax highlighting in your favorite text editor, head to the [relevant Babel documentation page](https://babeljs.io/docs/editors) and follow the instructions. Some of the most popular editors are covered.
+
+<div id="displaying-lint-output-in-the-editor"></div>
 
 ## Displaying Lint Output in the Editor
 
@@ -244,6 +266,8 @@ Now your editor should report the linting warnings.
 Note that even if you edit your `.eslintrc` file further, these changes will **only affect the editor integration**. They won’t affect the terminal and in-browser lint output. This is because Create React App intentionally provides a minimal set of rules that find common mistakes.
 
 If you want to enforce a coding style for your project, consider using [Prettier](https://github.com/jlongster/prettier) instead of ESLint style rules.
+
+<div id="debugging-in-the-editor"></div>
 
 ## Debugging in the Editor
 
@@ -273,6 +297,8 @@ Then add the block below to your `launch.json` file and put it inside the `.vsco
 ```
 
 Start your app by running `npm start`, and start debugging in VS Code by pressing `F5` or by clicking the green debug icon. You can now write code, set breakpoints, make changes to the code, and debug your newly modified code—all from your editor.
+
+<div id="formatting-code-automatically"></div>
 
 ## Formatting Code Automatically
 
